@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kaucha/Desktop/c++/Circuit calculator/PowerDistributionSimulator",
+      "program": "/Users/kaucha/Desktop/c++/Circuit calculator/PowerDistributionSimulator/build/Debug/outDebug"
+    }
+  ]
+}
