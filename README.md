@@ -35,7 +35,7 @@ This simulator was created by Electrical and Electronics Engineering students wi
 ## 📦 Getting Started
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/power-distribution-simulator.git
+git clone https://github.com/Kaucha1999/power-distribution-simulator.git
 cd power-distribution-simulator
 g++ main.cpp -o simulator
 ./simulator
